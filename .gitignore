@@ -1,0 +1,4 @@
+*.class
+.vscode/
+oopswithjava/oracleJdk-25/
+*.class
